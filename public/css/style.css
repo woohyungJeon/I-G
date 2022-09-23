@@ -211,6 +211,7 @@ a:focus,
   padding: 0;
   margin :auto;
   background: url(../img/main.jpg) center center no-repeat;
+  background-size: 1500px;
   /* background-color: #e5e5e5; */
   -webkit-background-size: cover;
   -moz-background-size: cover;
@@ -470,9 +471,15 @@ header .intro-text {
 }
 /* Contact Section */
 #contact {
-  padding: 100px 0 60px;
-  background: linear-gradient(to right, #6372ff 0%, #5ca9fb 100%);
+  /* padding: 100px 0 60px; */
+  padding : 0px;
+  background: linear-gradient(to right, #5a5858 0%, #f1dfdf 100%);
   color: rgba(255, 255, 255, 0.75);
+}
+#contact .ing-image{
+  padding : 100px 0 30px 0;
+  width : 200px;
+  height : 200px;
 }
 #contact .section-title {
   margin-bottom: 40px;
@@ -497,8 +504,8 @@ header .intro-text {
 }
 #contact h3 {
   color: #fff;
-  margin-top: 80px;
-  margin-bottom: 25px;
+  margin-top: 10px;
+  margin-bottom: 10px;
   padding-bottom: 20px;
   font-weight: 400;
 }
