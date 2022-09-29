@@ -1,6 +1,6 @@
 {
   "Header": {
-    "title": "Hello",
+    "title": "For a better future",
     "paragraph": "Lorem ipsum dolor sit amet, consectetur adipiscing elit. Duis sed dapibus leo nec ornare diam sed commodo nibh ante facilisis bibendum."
   },
   "About": {
@@ -152,7 +152,7 @@
     }
   ],
   "Contact": {
-    "address": "인천광역시 부평고 수변로 56, 103호",
+    "address": "인천광역시 부평구 수변로 56, 103호",
     "phone": "+82 010 2214 5480",
     "email": "giwk2@hanmail.net",
     "facebook": "fb.com",

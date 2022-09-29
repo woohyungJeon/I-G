@@ -152,7 +152,7 @@ export const Contact = (props) => {
       <div id='footer'>
         <div className='container text-center'>
           <p>사업자 등록번호 : 866-81-02483 | 대표 : 엄희찬</p>
-          {/* <p>주소 : 인천광역시 부평고 수변로 56, 103호</p> */}
+          {/* <p>주소 : 인천광역시 부평구 수변로 56, 103호</p> */}
           <p>
             I&G&copy; 2022 All rights reserved{' '}
             {/* <a href='http://www.templatewire.com' rel='nofollow'>
